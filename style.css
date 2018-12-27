@@ -1,11 +1,21 @@
 body{
     display:grid;
     
-    background-color: rgb(216, 212, 212);
+    background-color: rgb(229, 226, 226);
+    text-align:cener;
 }
 
-div .intro{
+div.intro{
+    display: inline-block;
     background-color: white;
+    margin-left:150px;
+    margin-right:150px;
+}
+
+div.media{
+    background-color: white;
+    margin-left:150px;
+    margin-right:150px;
 }
 
 h1{
